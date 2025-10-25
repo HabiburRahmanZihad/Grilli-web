@@ -10,7 +10,7 @@ A fully responsive and modern restaurant website designed for **Grilli**. Built 
 
 ## 🚀 Live Site
 
-🌐 [View Live Website](https://grilli-master-responsive-website.netlify.app/)
+🌐 [View Live Website](https://habiburrahmanzihad.github.io/Grilli-web/)
 
 ---
 
